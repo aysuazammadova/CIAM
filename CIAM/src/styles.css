@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    background-color: #f0f8ff; 
+    color: #333; 
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h3, h2, h4 {
+    color: #003366; 
+}
+
+a img:hover {
+    transform: scale(1.1); 
+}
