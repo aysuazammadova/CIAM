@@ -1,3 +1,3 @@
 # CIAM
 
-file:///Users/aysuazammadova/Downloads/CIAM/src/index.html
+http://127.0.0.1:3002/src/index.html
